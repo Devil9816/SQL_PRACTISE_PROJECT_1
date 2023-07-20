@@ -9,6 +9,7 @@ This repository contains an SQL script that performs data analysis on COVID-19 d
 Before running the script, ensure you have the following:
 
 • Microsoft SQL Server installed.
+
 • Access to the PROJECT1 database containing the necessary CovidDeaths and CovidVaccinations tables.
 
 **Script Files**
@@ -43,13 +44,13 @@ The SQL script performs the following analyses:
 
 **How to Use**
 
-Make sure you have the required access and connection to the PROJECT1 database with the CovidDeaths and CovidVaccinations tables.
+• Make sure you have the required access and connection to the PROJECT1 database with the CovidDeaths and CovidVaccinations tables.
 
-Open the covid_data_analysis.sql file in Microsoft SQL Server Management Studio (SSMS) or any SQL client that supports SQL Server.
+• Open the covid_data_analysis.sql file in Microsoft SQL Server Management Studio (SSMS) or any SQL client that supports SQL Server.
 
-Execute the SQL script by running the queries one by one or all at once.
+• Execute the SQL script by running the queries one by one or all at once.
 
-The script will produce various results based on the analyses performed.
+• The script will produce various results based on the analyses performed.
 
 **Contact**
 
