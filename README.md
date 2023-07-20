@@ -1,8 +1,11 @@
 # COVID-19 Data Analysis SQL Script
+
 **Overview**
+
 This repository contains an SQL script that performs data analysis on COVID-19 data, focusing on cases, deaths, and vaccinations. The script is designed to work with a SQL Server database and uses the dbo.CovidDeaths and dbo.CovidVaccinations tables from the PROJECT1 database.
 
 **Prerequisites**
+
 Before running the script, ensure you have the following:
 
 • Microsoft SQL Server installed.
@@ -20,6 +23,7 @@ The script uses data from two tables:
 • CovidVaccinations: This table contains information about COVID-19 vaccinations, including location, date, and new vaccinations.
 
 **Queries and Analysis**
+
 The SQL script performs the following analyses:
 
 •Various SELECT queries are used to retrieve and display data related to total cases, total deaths, infection percentages, and vaccination statistics.
@@ -37,6 +41,7 @@ The SQL script performs the following analyses:
 •A Common Table Expression (CTE) is used to calculate rolling vaccinated people percentages.
 
 **How to Use**
+
 Make sure you have the required access and connection to the PROJECT1 database with the CovidDeaths and CovidVaccinations tables.
 
 Open the covid_data_analysis.sql file in Microsoft SQL Server Management Studio (SSMS) or any SQL client that supports SQL Server.
@@ -46,6 +51,7 @@ Execute the SQL script by running the queries one by one or all at once.
 The script will produce various results based on the analyses performed.
 
 **Contact**
+
 For any questions or feedback, please contact me.
 
 Feel free to modify and extend the script according to your specific requirements. Happy coding!
