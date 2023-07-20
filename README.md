@@ -16,6 +16,7 @@ Before running the script, ensure you have the following:
 covid_data_analysis.sql: This is the main SQL script file that contains all the queries for data analysis.
 
 **Data Used**
+
 The script uses data from two tables:
 
 • CovidDeaths: This table contains information about COVID-19 deaths, including location, date, total cases, new cases, total deaths, and population.
